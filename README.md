@@ -1,69 +1,20 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@VMammedov 
-fdeniz07
-/
-fdeniz07
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-fdeniz07/README.md
-@fdeniz07
-fdeniz07 Update README.md
-Latest commit 41baef8 7 days ago
- History
- 1 contributor
-184 lines (158 sloc)  13.2 KB
-   
-<h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Fatih Deniz</h1>
-
-<!--
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+Homo+sapiens;I+am+Fatih+Deniz;Self+taught+developer&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=30">
-</p>
--->
-
-
+<h1 align='center'> Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Vusal Mammadli</h1>
 
 | **Language** |<p align="center">**About Me**</p>|
 | -------------: | :------------- |
-| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello, my name is Fatih Deniz. I graduated from Selcuk University with my degree in Computer Technology and Programming in 2006. Until 2012 I worked in various positions in the IT department of many companies in Turkey. I've been living in Germany since the end of 2012. I worked actively as a system and network administrator for a company until May 2020. Since May 2020 I have been training on various platforms so that my knowledge is always up to date. I am currently training in the areas of ASP.NET MVC Core, Java and Unity. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, adım Fatih Deniz. 2006 yılında Selçuk Üniversitesi Bilgisayar Teknolojileri ve Programlama bölümünden mezun oldum. 2012 yılına kadar Türkiye'de birçok firmada IT bölümünde çesitli pozisyonlarda çalıştım. 2012 yılı sonundan beri Almanya'da yaşamaktayım. Mayıs 2020 yılına kadar aktif bir şekilde Sistem ve Ağ Yöneticisi olarak bir firmada çalıştım. Mayıs 2020 den beri çeşitli platformlarda yazılım eğitimi almakta ve bilgilerimi güncellemekteyim. Şuan aktif olarak ASP.NET MVC Core, Java ve Unity alanlarında çalışmaktayım. |
-| <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png" width='96'>  | Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai 2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort, damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET MVC Core, Java und Unity weiter. |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello! I’m Vusal Mammadli. I am a 3rd year student of
+Computer Science at the Azerbaijan State University of Oil and
+Industry. I am engaged in programming and I love this job. The
+main programming slice is C #. |
+| <img src="https://imgs.search.brave.com/_9AUuuQ4lxsbhGjbMR4bs2W9WkGkjlyGkVQ5vm4PUn0/rs:fit:1200:600:1/g:ce/aHR0cDovL2Vhc3lz/Y2llbmNlZm9ya2lk/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTQvMDMvRnVu/LUVhcnRoLVNjaWVu/Y2UtZm9yLUtpZHMt/QWxsLWFib3V0LUF6/ZXJiYWlqYW4tSW1h/Z2Utb2YtdGhlLU5h/dGlvbmFsLUZsYWct/b2YtQXplcmJhaWph/bi5wbmc" width='96'>  | Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai 2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort, damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET MVC Core, Java und Unity weiter. |
 
-
-
-<!--
-### Here is What I'm working On! 👋
-Here are some ideas to get you started:
-- 🔭 I’m currently working on C# MVC CORE
-- 🌱 I’m currently learning UNITY & JAVA + REACT
-- 👯 I’m looking to collaborate on .NET C# MVC CORE & JAVA
-- 🤔 I’m looking for help with UNITY
-- 💬 Ask me about Anythink
-- 📫 How to reach me: [LinkedIn] (www.linkedin.com/in/denizfatih)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love to learn and discover new things
--->
-
- <!--Statistics-->
+<!--Statistics-->
 
 <div align="center">
-  <a href="https://github.com/fdeniz07/github-profile-views-counter">
+  <a href="https://github.com/VMammedov/github-profile-views-counter">
     <img align="center" src="https://komarev.com/ghpvc/?username=fdeniz07&color=blue">
   </a>
-  <a href="https://github.com/fdeniz07?tab=followers">
+  <a href="https://github.com/VMammedov?tab=followers">
     <img align="center"  src="https://img.shields.io/github/followers/fdeniz07?style=flat-square&color=red">
   </a>
 </div>
@@ -71,65 +22,42 @@ Here are some ideas to get you started:
   <h5><a>Follow me around the web:</a></h5>
   <div align="center">
     <div align="center">
-    <a href="https://www.linkedin.com/in/denizfatih" target="_blank">
+    <a href="https://www.linkedin.com/in/v%C3%BCsal-mammadli-06a90a1a4" target="_blank">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/fatih_deniz_07" target="_blank">
+    <a href="https://instagram.com/_mammedov_0?utm_medium=copy_link" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
     </a>
-    <a href="https://www.facebook.com/fdeniz07" target="_blank">
+    <a href="https://twitter.com/mammedov_v?t=CKnxp0s1eSt4FL8F7P3o1Q&s=09" target="_blank">
       <img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
     </a>
   </div>
 </div>
 </br>
 
-<!--![Visitor Count](https://profile-counter.glitch.me/{fdeniz07}/count.svg)-->
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=fdeniz07&label=Profile%20views&color=0e75b6&style=flat" alt="fdeniz07" /> </p>-->
 <hr />
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="left" src="https://github-profile-trophy.vercel.app/?username=fdeniz07&theme=darkhub" alt="fdeniz07" />
+    <img align="left" src="https://github-profile-trophy.vercel.app/?username=VMammedov&theme=darkhub" alt="fdeniz07" />
   </a> 
 </div>
 
 <div>
 <a href="https://github.com/fdeniz07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=fdeniz07&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VMammedov&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fdeniz07&theme=radical&date_format=j%20M%5B%20Y%5D" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=VMammedov&theme=radical&date_format=j%20M%5B%20Y%5D" />
 </a>
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=fdeniz07&show_icons=true&theme=radical" />
-</a>
--->
+
 <a href="https://github.com/fdeniz07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdeniz07&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VMammedov&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
 </a>
 </div>
 <br />
-<!--
-<p float="left">
-  <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=react-dark" width="635" /> 
-</p>
--->
 <hr />
-<!-- <table><tr>
-    <td valign="top" width="100%">
-        <div align="center">
-           <h2> <b> Language and Tools </b> </h2>
-        </div>
-        <div align="center">  
-         <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-            <img style="margin: 10px" alt="Vue" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
-            <img style="margin: 10px"  alt="Express" height="50" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/express.png"/>  
-            <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-        </div></td><td valign="top" width="50%">
-        </tr>
-</table>-->
-<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=fdeniz07&theme=xcode" /></div>
+
+<div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=VMammedov&theme=xcode" /></div>
 </div>
 
 
@@ -206,16 +134,3 @@ Here are some ideas to get you started:
 <img src="https://user-images.githubusercontent.com/59020581/117361667-02935d80-aec3-11eb-9186-23ca9ad4aaea.png" alt="watson studio" width="40" height="40"/>
 <img src="https://user-images.githubusercontent.com/59020581/117361856-39697380-aec3-11eb-8c94-963c752d06b7.png" alt="ıbmcognos" width="40" height="40"/> 
 -->
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
