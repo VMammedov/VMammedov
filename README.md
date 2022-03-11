@@ -38,7 +38,9 @@
     <img align="left" src="https://github-profile-trophy.vercel.app/?username=VMammedov&theme=darkhub" alt="VMammedov" />
   </a> 
 </div>
+<br />
 <hr />
+<br />
 <div>
 <a href="https://github.com/VMammedov">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=VMammedov&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" />
