@@ -2,11 +2,8 @@
 
 | **Language** |<p align="center">**About Me**</p>|
 | -------------: | :------------- |
-| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello! I’m Vusal Mammadli. I am a 3rd year student of
-Computer Science at the Azerbaijan State University of Oil and
-Industry. I am engaged in programming and I love this job. The
-main programming slice is C #. |
-| <img src="https://imgs.search.brave.com/_9AUuuQ4lxsbhGjbMR4bs2W9WkGkjlyGkVQ5vm4PUn0/rs:fit:1200:600:1/g:ce/aHR0cDovL2Vhc3lz/Y2llbmNlZm9ya2lk/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTQvMDMvRnVu/LUVhcnRoLVNjaWVu/Y2UtZm9yLUtpZHMt/QWxsLWFib3V0LUF6/ZXJiYWlqYW4tSW1h/Z2Utb2YtdGhlLU5h/dGlvbmFsLUZsYWct/b2YtQXplcmJhaWph/bi5wbmc" width='96'>  | Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war ich in verschiedenen Positionen in der IT-Abteilung vieler Unternehmen in der Türkei tätig. Ich lebe seit Ende 2012 in Deutschland. Ich habe bis Mai 2020 aktiv als System- und Netzwerkadministrator für ein Unternehmen gearbeitet. Seit Mai 2020 bilde ich mich auf verschiedenen Plattformen fort, damit meine Kenntnisse immer auf den neuesten Stand sind. Ich bilde mich derzeit in den Bereichen ASP.NET MVC Core, Java und Unity weiter. |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello! I’m Vusal Mammadli. I am a 3rd year student of Computer Science at the Azerbaijan State University of Oil and Industry. I am engaged in programming and I love this job. The main programming slice is C #. |
+| <img src="https://imgs.search.brave.com/_9AUuuQ4lxsbhGjbMR4bs2W9WkGkjlyGkVQ5vm4PUn0/rs:fit:1200:600:1/g:ce/aHR0cDovL2Vhc3lz/Y2llbmNlZm9ya2lk/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTQvMDMvRnVu/LUVhcnRoLVNjaWVu/Y2UtZm9yLUtpZHMt/QWxsLWFib3V0LUF6/ZXJiYWlqYW4tSW1h/Z2Utb2YtdGhlLU5h/dGlvbmFsLUZsYWct/b2YtQXplcmJhaWph/bi5wbmc" width='96'>  | Hallo, ich heiße Fatih Deniz. Ich habe 2006 meinen Abschluss in Computertechnologie und Programmierung an der Universität Selcuk gemacht. Bis 2012 war ich in verschiedenen PosiSalam! Mən Vüsal Məmmədliyəm. Mən Azərbaycan Dövlət Neft və Sənaye Universitetinin Kompüter Elmləri fakültəsinin 3-cü kurs tələbəsiyəm. Mən proqramlaşdırma ilə məşğulam və bu işi sevirəm. Əsas proqramlaşdırma dilimi C #-dir. |
 
 <!--Statistics-->
 
@@ -61,8 +58,6 @@ main programming slice is C #. |
 </div>
 
 
-
-
 ## My Utilities and Achievements
 
   ### Backend
@@ -108,29 +103,3 @@ main programming slice is C #. |
   <img src="https://banner2.cleanpng.com/20180816/juy/kisspng-hyper-v-microsoft-virtualization-master-microsoft-hyper-v-logo-zion-it-consulting-5b756d7913a013.8784467515344223930804.jpg" width="80" height="40" />
   
 </p>
-
-<!--
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/59020581/117359525-328d3180-aec0-11eb-9092-39fe97444d27.png" alt="sqlserver" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/59020581/117362577-18555280-aec4-11eb-94ef-401c9f28eb38.png" alt="visualcode" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/59020581/117361255-7a14bd00-aec2-11eb-90e1-bb33b170f90e.png" alt="azureml" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/59020581/117361667-02935d80-aec3-11eb-9186-23ca9ad4aaea.png" alt="watson studio" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/59020581/117361856-39697380-aec3-11eb-8c94-963c752d06b7.png" alt="ıbmcognos" width="40" height="40"/> 
--->
