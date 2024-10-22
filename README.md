@@ -2,8 +2,8 @@
 
 | **Language** |<p align="center">**About Me**</p>|
 | -------------: | :------------- |
-| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | Hello! I’m Vusal Mammadli. I am a 4th year student of Computer Science at the Azerbaijan State University of Oil and Industry. I am engaged in programming and I love this job. The main programming slice is C #. |
-| <img src="https://imgs.search.brave.com/_9AUuuQ4lxsbhGjbMR4bs2W9WkGkjlyGkVQ5vm4PUn0/rs:fit:1200:600:1/g:ce/aHR0cDovL2Vhc3lz/Y2llbmNlZm9ya2lk/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTQvMDMvRnVu/LUVhcnRoLVNjaWVu/Y2UtZm9yLUtpZHMt/QWxsLWFib3V0LUF6/ZXJiYWlqYW4tSW1h/Z2Utb2YtdGhlLU5h/dGlvbmFsLUZsYWct/b2YtQXplcmJhaWph/bi5wbmc" width='96'>  | Salam, mən Vüsal Məmmədliyəm. Mən Azərbaycan Dövlət Neft və Sənaye Universitetinin Kompüter Elmləri fakültəsinin 4-cü kurs tələbəsiyəm. Mən proqramlaşdırma ilə məşğulam və bu işi sevirəm. Əsas proqramlaşdırma dilim C #-dir. |
+| <img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'>  | JAVA, C# |
+| <img src="https://imgs.search.brave.com/_9AUuuQ4lxsbhGjbMR4bs2W9WkGkjlyGkVQ5vm4PUn0/rs:fit:1200:600:1/g:ce/aHR0cDovL2Vhc3lz/Y2llbmNlZm9ya2lk/cy5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMTQvMDMvRnVu/LUVhcnRoLVNjaWVu/Y2UtZm9yLUtpZHMt/QWxsLWFib3V0LUF6/ZXJiYWlqYW4tSW1h/Z2Utb2YtdGhlLU5h/dGlvbmFsLUZsYWct/b2YtQXplcmJhaWph/bi5wbmc" width='96'>  | JAVA, C# |
 
 <!--Statistics-->
 
